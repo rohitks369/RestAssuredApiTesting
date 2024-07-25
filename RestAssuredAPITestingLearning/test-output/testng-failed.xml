@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="crud.Test_GetMethod">
+      <class name="crud.Test_PostMethod">
         <methods>
           <include name="test01"/>
         </methods>
-      </class> <!-- crud.Test_GetMethod -->
+      </class> <!-- crud.Test_PostMethod -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
